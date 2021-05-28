@@ -1,0 +1,2 @@
+E:\Dimitrije\Unity Games\Jumpy Tower\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Dimitrije\Unity Games\Jumpy Tower\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
